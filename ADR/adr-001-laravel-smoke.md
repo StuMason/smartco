@@ -41,4 +41,4 @@ Some questions that have already been asked internally are:
 
 ## Decision
 
-...
+(to be filled in by you)
