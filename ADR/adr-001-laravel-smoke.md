@@ -18,6 +18,8 @@ What we are looking for here is a clear explanation from you on how you would ap
 
 Diagrams, code snippets (pseudo code fine) and the reasoning behind each decision (along with its consequences) are needed to help us decide if we should proceed with this experiment further.
 
+A VPC, Subnets, NAT Gateway, Route Tables, Security Groups, IAM Roles, etc. have all already been created for you. You can use these as you see fit.
+
 Some questions that have already been asked internally are:
 
 * Along with API Gateway and Lambda, what other resources will we need?
@@ -28,7 +30,6 @@ Some questions that have already been asked internally are:
 * Would this solution be possible using AWS SAM?
 * How would we deploy this application?
 * How would we inspect logs?
-* What assumptions have been made?
 * What new technologies would the team need to familiarise themselves with, if any?
 
 ### Bonus questions
@@ -38,6 +39,8 @@ Some questions that have already been asked internally are:
 * Would we be able to integrate redis cache?
 * What store would we use?
 * How could we prevent (for example) 3000 Lambda invocations from maxing out our connections in RDS?
+* How would we handle database migrations?
+* What imppact would this have on security vs. using Fargate?
 
 ## Decision
 
