@@ -16,7 +16,7 @@ At a team, we would like to experiment with a Laravel application which uses API
 
 What we are looking for here is a clear explanation from you on how you would approach this, and what the benefits and drawbacks are, as well as any other considerations you would make.
 
-Diagrams, code snippets (pseudo code fine) and the reasoning behind each decision (along with its consequences) are needed help us decide if we should proceed with this experiment further.
+Diagrams, code snippets (pseudo code fine) and the reasoning behind each decision (along with its consequences) are needed to help us decide if we should proceed with this experiment further.
 
 Some questions that have already been asked internally are:
 
