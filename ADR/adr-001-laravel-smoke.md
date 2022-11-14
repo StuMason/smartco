@@ -32,7 +32,7 @@ Some questions that have already been asked internally are:
 * How would we inspect logs?
 * What new technologies would the team need to familiarise themselves with, if any?
 
-### Bonus questions
+### Bonus Descisions
 
 * What would the CI/CD pipeline look like?
 * Would an SQS/Queue worker be possible here?
@@ -40,7 +40,7 @@ Some questions that have already been asked internally are:
 * What store would we use?
 * How could we prevent (for example) 3000 Lambda invocations from maxing out our connections in RDS?
 * How would we handle database migrations?
-* What imppact would this have on security vs. using Fargate?
+* What impact would this have on security vs. using Fargate?
 
 ## Decision
 
