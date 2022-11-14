@@ -12,7 +12,7 @@ The teams are also used to using Github Actions as their CI/CD tool.
 
 ### Laravel + Lambda
 
-At a team, we would like to experiment with a Laravel application which uses API Gateway + Lambda, rather than ECS Fargate (Docker) to process client requests. _This would be very similar to Laravels “Vapour” offering._
+As a team, we would like to experiment with a Laravel application which uses API Gateway + Lambda, rather than ECS Fargate (Docker) to process client requests. _This would be very similar to Laravels “Vapour” offering._
 
 What we are looking for here is a clear explanation from you on how you would approach this, and what the benefits and drawbacks are, as well as any other considerations you would make.
 
